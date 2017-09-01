@@ -10,7 +10,7 @@
 	<h1>Git Test!</h1>
 	<div class="article">
 		<h2>문단1</h2>
-	</div>
-	
+	</div> 
+	test입니다.
 </body>
 </html>
