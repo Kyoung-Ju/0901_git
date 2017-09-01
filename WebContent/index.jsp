@@ -11,9 +11,6 @@
 	<div class="article">
 		<h2>문단1</h2>
 	</div>
-	<div>
-		<h2>문단2</h2>
-	</div>
 	
 </body>
 </html>
