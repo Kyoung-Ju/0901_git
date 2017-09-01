@@ -11,6 +11,6 @@
 	<div class="article">
 		<h2>문단1</h2>
 	</div> 
-	test입니다.
+	test입니다...
 </body>
 </html>
