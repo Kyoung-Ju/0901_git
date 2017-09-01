@@ -8,5 +8,6 @@
 </head>
 <body> 
 	<h1>Git연습</h1>
+	<div></div>
 </body>
 </html>
