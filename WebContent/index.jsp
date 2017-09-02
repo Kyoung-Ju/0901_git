@@ -15,6 +15,6 @@
 	<table id="myTable">
 		<thead></thead>
 		<tbody></tbody>
-	</table>
+	</table> 
 </body>
 </html>
