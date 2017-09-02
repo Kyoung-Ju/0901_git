@@ -12,5 +12,9 @@
 		<h2>문단1</h2>
 	</div> 
 	test입니다...
+	<table id="myTable">
+		<thead></thead>
+		<tbody></tbody>
+	</table>
 </body>
 </html>
