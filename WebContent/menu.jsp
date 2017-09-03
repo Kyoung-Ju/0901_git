@@ -3,5 +3,5 @@
 <div id="menu">
 	<ul>
 		<li>menu1</li>
-	</ul>
+	</ul> 
 </div>
