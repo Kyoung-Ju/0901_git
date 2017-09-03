@@ -10,12 +10,14 @@
 	<h1>Git Test!</h1>
 	<div class="article">
 		<h2>문단1</h2>
-	</div> 
-	test입니다...
-	<table id="myTable">
-		<thead></thead>
-		<tbody></tbody>
-	</table> 
+	</div>
+	<div id="content"> 
+		test입니다...
+		<table id="myTable">
+			<thead></thead>
+			<tbody></tbody>
+		</table> 
+	</div>
 	<div id="footer"></div>
 </body>
 </html>
