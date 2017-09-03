@@ -16,5 +16,6 @@
 		<thead></thead>
 		<tbody></tbody>
 	</table> 
+	<div id="footer"></div>
 </body>
 </html>
