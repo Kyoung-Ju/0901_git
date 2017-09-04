@@ -18,6 +18,10 @@
 			<tbody></tbody>
 		</table> 
 	</div>
-	<div id="footer"></div>
+	<div id="footer">
+		<div>
+			<pre>하단 내용</pre>
+		</div>
+	</div>
 </body>
 </html>
