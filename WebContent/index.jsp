@@ -15,7 +15,7 @@
 		test입니다...
 		<table id="myTable">
 			<thead></thead>
-			<tbody></tbody>
+			<tbody><tr></tr></tbody>
 		</table> 
 	</div>
 	<div id="footer">
