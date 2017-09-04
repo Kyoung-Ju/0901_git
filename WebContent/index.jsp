@@ -21,6 +21,7 @@
 	<div id="footer">
 		<div>
 			<pre>하단 내용</pre>
+			<pre>개인정보 보안책정 </pre>
 		</div>
 	</div>
 </body>
